@@ -25,6 +25,7 @@ def calcu(dicta):
 		except EOFError:
 			print()
 			break
+			#AK
 
 
 main()

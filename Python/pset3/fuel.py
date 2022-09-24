@@ -19,6 +19,7 @@ def main():
 		print("F")
 	else:
 		print(f"{p}%")
+		#AK
 
 
 main()
